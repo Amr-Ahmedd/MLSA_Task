@@ -49,10 +49,10 @@ const projectList = [
     url: "https://drive.google.com/file/d/1VEvzu48ue-wYkXtS9NMY_UdAFYwoFlfR/view?usp=sharing",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Microsoft Build After Party Egypt  Whats new in GitHub Copilot",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I delivered an engaging session at the Microsoft Build After Party in Egypt, where I covered the latest features and advancements in GitHub Copilot",
+    url: "https://stdntpartners-my.sharepoint.com/:v:/g/personal/amr_ahmed_studentambassadors_com/EYigtoLActBMpc4yruHKwCIB3j0mVRTO6TDKeIZ30aHKWg?e=j8H4ef&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
   },
 ];
 
