@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Amr Ahmed",
-
+  title: "AI Engineer",
   email: "amr.ahmed315200.com",
   gitHub: "Amr-Ahmedd",
   instagram: "amr_a7mad1",
@@ -42,7 +42,7 @@ const App = () => {
   return (
     <div id="main">
       <Header />
-      <Home name={siteProps.name} />
+      <Home name={siteProps.name} title={siteProps.title} />
       <About />
       <Portfolio />
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
