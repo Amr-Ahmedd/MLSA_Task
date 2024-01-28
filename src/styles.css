@@ -27,6 +27,7 @@ section {
 
 section.min-height {
   min-height: 100vh;
+  position: fixed;
 }
 
 section.padding {
@@ -38,7 +39,7 @@ section img.background {
   left: 50%;
   object-fit: cover;
   pointer-events: none;
-  position: fixed;
+  position: absolute;
   top: 0;
   transform: translate(-50%, 0);
   width: 100vmax;
