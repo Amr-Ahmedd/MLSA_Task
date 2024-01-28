@@ -38,7 +38,7 @@ section img.background {
   left: 50%;
   object-fit: cover;
   pointer-events: none;
-  position: absolute;
+  position: fixed;
   top: 0;
   transform: translate(-50%, 0);
   width: 100vmax;
