@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/final.jpg";
+import image from "../images/pic.png";
 
-const imageAltText = "Senior Software Engineer";
+const imageAltText = "senior software ";
 
 const Home = ({ name, title }) => {
   return (
@@ -37,7 +37,7 @@ const Home = ({ name, title }) => {
       </div>
     </section>
   );
-};tr
+};
 
 Home.defaultProps = {
   name: "",
