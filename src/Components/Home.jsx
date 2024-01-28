@@ -27,8 +27,8 @@ const imageAltText = "Senior Software Engineer";
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
-      <img className="background" src={image} alt="" style={{ position: "relevant", top: "0", left: "0", width: "100%", height: "100%" }}/>
-      <div style={{ position: "relative", top: "5rem", left: "2rem", width: "17rem" }}>
+      <img className="background" src={image} alt="" style={{ position: "absolute", top: "0", left: "0", width: "100%", height: "100%" }}/>
+      <div style={{ position: "absolute", top: "5rem", left: "2rem", width: "17rem" }}>
         <h1>{name}</h1>
         <h2>{title}</h2>
       </div>
