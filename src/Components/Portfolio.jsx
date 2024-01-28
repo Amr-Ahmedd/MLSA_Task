@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "TMDB-DataAnalysis",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project aim to analyse data to a data set of films showing a visualization to the insights",
+    url: "https://github.com/Amr-Ahmedd/TMDB-Data-Analysis",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Bike-Share-Data-Analysis",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project involves analyzing a dataset of over 900,000 rows related to bike usage in the USA, extracting meaningful insights to inform strategic decisions for the bike share application.",
+    url: "https://github.com/Amr-Ahmedd/Bike-Share-Data-Analysis",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "You can view and download my CV from here",
+    url: "https://drive.google.com/file/d/1VEvzu48ue-wYkXtS9NMY_UdAFYwoFlfR/view?usp=sharing",
   },
   {
     title: "GitHub Codespaces and github.dev",
