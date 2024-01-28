@@ -29,14 +29,14 @@ const siteProps = {
   email: "amr.ahmed315200.com",
   gitHub: "Amr-Ahmedd",
   instagram: "amr_a7mad1",
-  linkedIn: "https://www.linkedin.com/in/amr-ahmed-b5392a223",
+  linkedIn: "amr-ahmed-b5392a223",
   medium: "",
   twitter: "",
   youTube: "",
 };
 
-const primaryColor = "#4E567E";
-const secondaryColor = "#D2F1E4";
+const primaryColor = "#FFFFFF";
+const secondaryColor = "#00FF00";
 
 const App = () => {
   return (
